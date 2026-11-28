@@ -2,51 +2,26 @@
  "sample": true,
  "date": "2026-11-28",
  "date_label": "Saturday, November 28, 2026",
- "phase": "morning",
- "updated": "11:40 AM ET",
+ "phase": "night",
+ "updated": "9:55 PM ET",
  "status_line": "SAMPLE DATA: made-up horses to test the self-updating box. Not live picks.",
  "selections": [
   {
    "track": "Sample Park",
-   "race": 3,
-   "post": "1:10 PM ET",
-   "horse": "#4 Stopwatch Sally",
-   "status": "ok"
-  },
-  {
-   "track": "Sample Park",
-   "race": 8,
-   "post": "4:02 PM ET",
-   "horse": "#2 Coffee at Dawn",
-   "status": "ok"
+   "race": 7,
+   "post": "2:38 PM ET",
+   "horse": "#7 Blue Morning",
+   "status": "pre"
   },
   {
    "track": "Example Downs",
-   "race": 5,
-   "post": "2:45 PM ET",
-   "horse": "#7 Rail Runner",
-   "status": "new"
-  },
-  {
-   "track": "Example Downs",
-   "race": 9,
-   "post": "5:15 PM ET",
-   "horse": "#1 Clocker's Pick",
-   "status": "ok"
+   "race": 11,
+   "post": "5:54 PM ET",
+   "horse": "#5 Night Clocker",
+   "status": "pre"
   }
  ],
- "scratched": [
-  {
-   "track": "Test Valley",
-   "race": 6,
-   "horse": "#5 Mockingbird Lane",
-   "note": "scratched, so no Blue Ribbon bet in that race"
-  }
- ],
- "scratch_notes": [
-  "<b>Sample Park</b>, checked 11:20 AM ET. No Blue Ribbon Selection scratched.",
-  "<b>Test Valley</b> Race 6: #5 Mockingbird Lane scratched, so no Blue Ribbon bet in that race."
- ],
+ "scratch_notes": [],
  "results": [],
  "totals_line": "<b>Birdie's top pick in every race since Oct 25:</b> 000 races, 000 winners (sample). ",
  "show_url": "#"
